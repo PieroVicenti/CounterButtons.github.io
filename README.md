@@ -1,2 +1,2 @@
 # CounterButtons.github.io
-https://pierovicenti.github.io/CounterButtons.github.io/index.html
+https://pierovicenti.github.io/CounterButtons.github.io/
